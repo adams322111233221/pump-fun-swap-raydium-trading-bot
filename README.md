@@ -1,6 +1,6 @@
-# Raytx
+# Pump Fun Swap Raydium Trading Bot
 
-Raytx is a powerful tool for performing token swap operations on Raydium and Pump.fun, providing both CLI and API interfaces.
+Pump Fun Swap Raydium Trading Bot is a powerful tool for performing token swap operations on Raydium and Pump.fun, providing both CLI and API interfaces.
 
 ## Features
 
